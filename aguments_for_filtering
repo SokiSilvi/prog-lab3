@@ -1,0 +1,3 @@
+-p .*[wW]isdom.* -i wisdom.txt -o wizdom.txt
+-p .*[wW]isdom.* -i wisdom.txt -o wizdom.txt.gz -go
+-p .*[wW]isdom.* -i wizdom.txt.gz -o wizzdom.txt -gi
